@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Alejandro Mendoza — Creative developer and digital artist</title>
-  <desc id="desc">bobo labs. Web applications, AI tools, and interactive 3D. Based in Chile.</desc>
+  <title id="title">barkz — Creative developer and digital artist</title>
+  <desc id="desc">barkz. Web applications, AI tools, and interactive 3D. Based in Chile.</desc>
   <rect width="1200" height="280" rx="16" fill="#f4f3eb"/>
   <path d="M0 260H1200" stroke="#d6d8c9"/>
   <rect x="42" y="37" width="8" height="8" rx="2" fill="#607044"/>
-  <text x="62" y="46" fill="#5d644e" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">BOBO LABS / CHILE</text>
-  <text x="40" y="128" fill="#20271f" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Alejandro Mendoza</text>
+  <text x="62" y="46" fill="#5d644e" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">BARKZ / CHILE</text>
+  <text x="40" y="128" fill="#20271f" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">barkz</text>
   <text x="43" y="174" fill="#4a5547" font-family="Arial, Helvetica, sans-serif" font-size="27">Creative developer &amp; digital artist</text>
   <text x="44" y="231" fill="#5d644e" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">WEB APPLICATIONS · AI TOOLS · INTERACTIVE 3D</text>
   <g transform="translate(950 63)" fill="none" stroke="#607044" stroke-width="1.5">
