@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/barkz-xyz/barkz-xyz/main/assets/profile-header.svg" alt="barkz — Creative developer & digital artist" width="100%" />
+<img src="https://raw.githubusercontent.com/barkz-xyz/barkz-xyz/main/assets/profile-header-v2.png" alt="barkz — Creative developer & digital artist" width="100%" />
 
 I build web applications, AI tools, and interactive 3D experiences. My work connects interface design, backend development, and visual storytelling.
 
@@ -22,4 +22,4 @@ I take projects from concept and visual direction through implementation: interf
 - **AI & integrations:** LLM APIs, model routing, wallet authentication, payments, webhooks
 - **Visual craft:** Three.js, p5.js, Blender, DaVinci Resolve, Photoshop
 
-For collaborations or opportunities, [reach me on X](https://x.com/bobo__labs).
+For collaborations or opportunities, [reach me on X](https://x.com/barkz_xyz).
