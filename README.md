@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bobo-labs/bobo-labs/main/assets/profile-header.svg" alt="barkz — Creative developer & digital artist" width="100%" />
+<img src="https://raw.githubusercontent.com/barkz-xyz/barkz-xyz/main/assets/profile-header.svg" alt="barkz — Creative developer & digital artist" width="100%" />
 
 I build web applications, AI tools, and interactive 3D experiences. My work connects interface design, backend development, and visual storytelling.
 
@@ -8,11 +8,11 @@ I build web applications, AI tools, and interactive 3D experiences. My work conn
 
 | Project | What I built | Main tools |
 | :--- | :--- | :--- |
-| **[Bakery POS](https://github.com/bobo-labs/stock-app)** | Inventory and checkout app with Mercado Pago Point payments, refund workflows, and sales reporting. | React, Node.js, PostgreSQL |
-| **[bobOS](https://github.com/bobo-labs/bobOS)** | AI chat application with Gemini model routing, Solana wallet signature verification, and token-gated experiences. | Next.js, TypeScript, Express, Drizzle |
-| **[Redza](https://github.com/bobo-labs/redza-website)** | Brand identity and responsive website for a Chilean transport and logistics business. | Next.js, TypeScript, SVG, Framer Motion |
-| **[NAK](https://github.com/bobo-labs/NAK)** | Interactive 3D oracle prototype with custom rendering, animation, and simulated wallet interactions. | Three.js, WebGPU, Blender, Vite |
-| **[Creative code](https://github.com/bobo-labs/content)** | Browser-based visual experiments, animations, and explainers. | JavaScript, p5.js, HTML/CSS |
+| **[Bakery POS](https://github.com/barkz-xyz/stock-app)** | Inventory and checkout app with Mercado Pago Point payments, refund workflows, and sales reporting. | React, Node.js, PostgreSQL |
+| **[bobOS](https://github.com/barkz-xyz/bobOS)** | AI chat application with Gemini model routing, Solana wallet signature verification, and token-gated experiences. | Next.js, TypeScript, Express, Drizzle |
+| **[Redza](https://github.com/barkz-xyz/redza-website)** | Brand identity and responsive website for a Chilean transport and logistics business. | Next.js, TypeScript, SVG, Framer Motion |
+| **[NAK](https://github.com/barkz-xyz/NAK)** | Interactive 3D oracle prototype with custom rendering, animation, and simulated wallet interactions. | Three.js, WebGPU, Blender, Vite |
+| **[Creative code](https://github.com/barkz-xyz/content)** | Browser-based visual experiments, animations, and explainers. | JavaScript, p5.js, HTML/CSS |
 
 ### How I work
 
