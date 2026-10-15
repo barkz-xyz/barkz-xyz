@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/bobo-labs/bobo-labs/main/assets/profile-header.svg" alt="Alejandro Mendoza — Creative developer & digital artist" width="100%" />
+<img src="https://raw.githubusercontent.com/bobo-labs/bobo-labs/main/assets/profile-header.svg" alt="barkz — Creative developer & digital artist" width="100%" />
 
-I build web applications, AI tools, and interactive 3D experiences through **bobo labs**. My work connects interface design, backend development, and visual storytelling.
+I build web applications, AI tools, and interactive 3D experiences. My work connects interface design, backend development, and visual storytelling.
 
 **Chile / LATAM · English & Spanish · Open to remote roles and freelance projects**
 
